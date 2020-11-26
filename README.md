@@ -10,6 +10,7 @@ The solution consists of a single project called EvolentApp; the folder structur
 7. Views folder contain the various views that form part of the MVC presentation layer.
 8. The DIResolver folder contains the NInject classes for dependency injection.
 
+
 In order to run the project on your machine, follow the following steps:
 1. Download the contents of this repository on your local machine.
 2. In Microsoft SQL Server Management Studio, run the scripts contained in DBScripts folder.
