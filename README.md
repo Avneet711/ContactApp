@@ -1,7 +1,7 @@
 ContactApp
 
 The solution consists of a single project called EvolentApp; the folder structure is briefly described as follows:
-1. The AppStart folder contains the web API congofuration details, including routing.
+1. The AppStart folder contains the web API configuration details, including routing.
 2. Models class contains the data models that correspond directly to the DB schema.
 3. DataAccessLayer contains classes for direct DB access. 
 4. ViewModels class contains the business models that correspond to the model that acts as a base for the presentation layer i.e. the views.
